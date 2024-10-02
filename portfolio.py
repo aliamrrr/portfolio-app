@@ -71,15 +71,15 @@ def home():
             }}
             .internship-info {{
                 text-align: left;
-                margin-top: -110px;
-                margin-left: 105px;
+                margin-top: -60px;
+                margin-left: 92px;
                 font-size: 20px;
                 font-weight: 300;
             }}
             .internship-looking {{
                 text-align: left;
                 margin-top: 10px;
-                margin-left: 105px;
+                margin-left: 92px;
                 font-size: 20px;
                 font-weight: 300;
             }}
